@@ -1,0 +1,41 @@
+{
+  "name": "react-lazyloader",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "Automatically Lazy-Load your Component.",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanisH25/react-lazyloader.git"
+  },
+  "keywords": [
+    "lazy-loading",
+    "lazy-loaded",
+    "lazy-loader",
+    "lazyload",
+    "lazy-load",
+    "react",
+    "component",
+    "code-split",
+    "code-splitting",
+    "webpack"
+  ],
+  "author": "Yanis HEDJEM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YanisH25/react-lazyloader/issues"
+  },
+  "homepage": "https://github.com/YanisH25/react-lazyloader#readme"
+}
