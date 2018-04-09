@@ -1,5 +1,5 @@
 {
-  "name": "react-lazyloader",
+  "name": "@yanish/react-lazyloader",
   "version": "1.0.0",
   "private": false,
   "dependencies": {

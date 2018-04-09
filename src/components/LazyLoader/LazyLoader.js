@@ -16,7 +16,7 @@ import React, {Component, Fragment} from 'react';
         - "children" (Promise) : Your Lazy-Loaded Component in the form of a Promise obtained with "import('The relative path of your component')".
 
     Example :
-        import LazyLoader from 'react-lazyloader';
+        import LazyLoader from '@yanish/react-lazyloader';
         import MyPlaceholder from './somewhere';
         import MyErrorHandler from './somewhere';
 
