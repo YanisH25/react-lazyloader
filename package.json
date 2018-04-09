@@ -1,7 +1,7 @@
 {
   "name": "react-lazyloader",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
@@ -14,7 +14,7 @@
     "eject": "react-scripts eject"
   },
   "description": "Automatically Lazy-Load your Component.",
-  "main": "src/index.js",
+  "main": "build/main.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
